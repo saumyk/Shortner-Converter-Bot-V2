@@ -3,9 +3,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am ShortnerFly.com, Bulk Link Converter. I Can Convert Links Directly From Your ShortnerFly Account,
+I Am Dsshortener.xyz, Bulk Link Converter. I Can Convert Links Directly From Your Dsshortener Account,
     
-1. Go To 👉 https://ShortnerFly.com/member/tools/api  
+1. Go To 👉 http://Dsshortener.xyz/member/tools/api  
 2. Than Copy API Key
 3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
