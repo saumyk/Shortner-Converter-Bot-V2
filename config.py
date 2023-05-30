@@ -20,6 +20,6 @@ ADMINS.append(951824622)
 #  Optionnal variables
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001958041628")) 
 UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "DS_backup") # For Force Subscription
-BROADCAST_AS_COPY = os.environ.get('BROADCAST_AS_COPY', "True") # true if forward should be avoided
+BROADCAST_AS_COPY = os.environ.get('BROADCAST_AS_COPY', "False") # true if forward should be avoided
 WELCOME_IMAGE = os.environ.get("WELCOME_IMAGE", '') # image when someone hit /start # image when someone hit /start
 LINK_BYPASS = "False"
